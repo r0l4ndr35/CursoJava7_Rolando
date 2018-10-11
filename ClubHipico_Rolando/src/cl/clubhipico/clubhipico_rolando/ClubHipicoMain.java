@@ -1,4 +1,4 @@
-package cl.clubhipico.clubhipico_rolando;
+//package cl.clubhipico.clubhipico_rolando;
 
 import cl.clubhipico.clubhipico_rolando.object.CaballoObject;
 import cl.clubhipico.clubhipico_rolando.object.CarreraObject;
