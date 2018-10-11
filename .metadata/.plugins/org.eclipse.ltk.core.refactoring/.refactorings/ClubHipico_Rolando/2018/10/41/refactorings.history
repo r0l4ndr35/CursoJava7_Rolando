@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;cl.clubhipico.clubhipico_rolando.object.mandilObject.java&apos; to &apos;MandilObject.java&apos;&#x0D;&#x0A;- Original project: &apos;ClubHipico_Rolando&apos;&#x0D;&#x0A;- Original element: &apos;cl.clubhipico.clubhipico_rolando.object.mandilObject.java&apos;&#x0D;&#x0A;- Renamed element: &apos;cl.clubhipico.clubhipico_rolando.object.MandilObject.java&apos;" description="Rename compilation unit &apos;mandilObject.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;cl.clubhipico.clubhipico_rolando.object{mandilObject.java" name="MandilObject.java" references="false" stamp="1539262480755" version="1.0"/>
+</session>
