@@ -34,7 +34,7 @@ public class ClubHipicoArregloMain {
 		//3 - Manipulas - llenas con informacion o usas funciones / metodos
 		jinetesArray[0].setNombre("Pepito");
 		jinetesArray[1].setNombre("Juanito");
-		//jinetesArray[2].setNombre("Pedrito");
+		jinetesArray[2].setNombre("Pedrito");
 		
 		jinetesArray[0].setSexo(SexoEnum.MASCULINO);
 		jinetesArray[1].setSexo(SexoEnum.FEMENINO);
